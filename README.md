@@ -11,7 +11,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/37d1f77015d74351b50eb59780d17804.png?r=hse"
+      src="https://raw.githubusercontent.com/pnvasanth/pnvasanth/main/devcard.svg"
     />
   </a>
 </div>
