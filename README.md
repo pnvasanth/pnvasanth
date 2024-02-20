@@ -7,15 +7,12 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://app.daily.dev/vasn" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/pnvasanth/pnvasanth/main/devcard.svg"
-    />
-  </a>
 </div>
 
 # I am Vas
 
 - Software Engineer at [daily.dev](https://daily.dev/)
+
+ <a href="https://app.daily.dev/vasn">
+    <img src="https://api.daily.dev/devcards/v2/twmsvOCVr4s9JjlwIKGqI.png?type=default&r=0vc" width="356" alt="Vas N's Dev Card"/>
+  </a>
